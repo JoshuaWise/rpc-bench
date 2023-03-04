@@ -1,6 +1,6 @@
 # rpc-bench
 
-RPC protocol benchmark.
+A benchmark for RPC protocols.
 
 ```
 npm install -g https://github.com/JoshuaWise/rpc-bench#master

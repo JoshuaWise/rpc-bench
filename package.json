@@ -1,7 +1,7 @@
 {
   "name": "rpc-bench",
   "version": "1.0.0",
-  "description": "RPC protocol benchmark",
+  "description": "A benchmark for RPC protocols",
   "bin": {
     "rpc-bench-client": "./bin/client.js",
     "rpc-bench-server": "./bin/server.js"
